@@ -11,7 +11,7 @@ section {
     height: 100vh;    
     justify-content: center;
     align-items: center;
-    background: url('../img/covid.jpg');
+    background: url(../img/covid.jpg);
     background-position: center;
     padding: 20px 30px;
     display: flex;
